@@ -13,7 +13,6 @@ func main() {
 			newArr = append(newArr, entry)
 		}
 	}
-	fmt.Println(keys)
 	fmt.Println(arr)
 	fmt.Println(newArr)
 
